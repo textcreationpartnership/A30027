@@ -1,0 +1,581 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Innocency vindicated and envy rebuked being a brief answer to George Whitehead and John Tysoe, touching John Anslo's proceedings in marriage, whereby their lyes, hypocrisy, and evil suggestion are discovered, and their evidences rejected, who being examined apart agree not in their tale, like their predecessours of old.</title>
+            <author>Bugg, Francis, 1640-1724?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30027</idno>
+            <idno type="STC">Wing B5371</idno>
+            <idno type="STC">ESTC R36066</idno>
+            <idno type="EEBO-CITATION">15599229</idno>
+            <idno type="OCLC">ocm 15599229</idno>
+            <idno type="VID">104037</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104037)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1587:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Innocency vindicated and envy rebuked being a brief answer to George Whitehead and John Tysoe, touching John Anslo's proceedings in marriage, whereby their lyes, hypocrisy, and evil suggestion are discovered, and their evidences rejected, who being examined apart agree not in their tale, like their predecessours of old.</title>
+                  <author>Bugg, Francis, 1640-1724?</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed by Wing and NUC pre-1956 imprints to Bugg.</note>
+                  <note>Imprint suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whitehead, George, 1636?-1723.</term>
+               <term>Tyso, John, d. 1700.</term>
+               <term>Aynsloe, John, d. 1693.</term>
+               <term>Society of Friends --  England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104037:1" rendition="simple:additions"/>
+            <head>
+               <hi>Innocency Vindicated, <hi>AND ENVY REBUKED. BEING</hi>
+               </hi> A Brief Anſwer to <hi>George Whitehead</hi> and <hi>John Tyſoe,</hi> Touching <hi>John An<g ref="char:EOLhyphen"/>ſlo's</hi> Proceedings in Marriage; whereby their Lyes, Hypocriſy, and evil Suggeſtions are diſcovered, and their Evidence rejected; who being examined apart, agree not in their Tale, like their Predeceſſours of Old.</head>
+            <div type="introduction">
+               <head>The INTRODUCTION.</head>
+               <p>WHereas <hi>W.R.T.C.</hi> my ſelf, and others, have been of late concern'd to bear a publick <hi>Teſtimony</hi> againſt the dangerous <hi>Innovations</hi> and manifeſt <hi>
+                     <g ref="char:V">Ʋ</g>ſurpations</hi> of <hi>G. Fox</hi> and his Party amongſt the People call'd <hi>Quakers;</hi> and alſo againſt their manifeſt <hi>Perſecu<g ref="char:EOLhyphen"/>tion</hi> according to their power; as may be ſeen at large in our Books now extant; and as a Proof of the ſame, I have ſometimes made uſe of their <hi>Pro<g ref="char:EOLhyphen"/>ceedings</hi> againſt <hi>J. A.</hi> whom they recorded out of <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> for not taking his Wife according to their ORDERS; which though it be as evident as the <hi>Sun</hi> ſhining at Noon day, yet hath <hi>G.W.</hi> the Face to deny it; and <hi>J. Tyſoe</hi> his Brother in Iniquity, the Impudence to ſay, <hi>They never came Face to Face before Friends;</hi> and ſo went together, and conſequently never <hi>Marryed</hi> at all; which ſome have believed, who have lived at a diſtance from <hi>J. A.</hi> and have been Strangers to him and his <hi>Converſation.</hi> Thus have they appeared like the worſt of <hi>Informers,</hi> and without any juſt <hi>Provocation</hi> given them, as well as falſe in <hi>Fact.</hi> And have expoſed him to publick View, as a wick<g ref="char:EOLhyphen"/>ed and diſorderly Perſon. <hi>WHEREFORE O ISRAEL,</hi> Return to the <hi>Iudgment Seat,</hi> and let us examine theſe two <hi>Corrupt</hi> Judges Apart: And if found <hi>Guilty,</hi> let Juſtice be executed upon them according to their <hi>Merits.</hi> Thus much by way of <hi>Introduction.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>THE EXAMINATION OF <hi>G. WHITEHEAD.</hi>
+               </head>
+               <p>Firſt then, obſerve the Words of the <hi>Record</hi> againſt <hi>J. A.</hi> as they lye in their Quarterly Book <hi>Verbatim;</hi> and which hitherto they have not had the Face to deny, <hi>Viz.</hi> 
+                  <q>We at this Meeting having the Buſineſs of <hi>J. A.</hi> his taking his Wife <hi>contrary to the Orders</hi> of Friends brought <hi>before us,</hi> and Friends having ſeveral times ſpake to him about it, and he not giving Friends Satisfaction, we do teſtifie that we have no Union with him in this his ſo doing, <hi>&amp;c. Hadenham, the</hi> 4th. <hi>day of the</hi> 7th. <hi>Month,</hi> 1678.</q> Thus they ſay plainly, that he took his Wife contrary to the <hi>Orders</hi> of Friends, and that therefore they have no Unity with him, <hi>&amp;c.</hi> See now a Copy of their Orders which were made by <hi>Cambridgeſhire</hi> Friends, and the Iſle of <hi>Ely</hi> Friends together (in <hi>J. A's</hi> abſence) at the <hi>Quarterly Meeting</hi> in
+<pb n="2" facs="tcp:104037:2"/> 
+                  <hi>Hadenham,</hi> in the Iſle of <hi>Ely,</hi> and County of <hi>Cambridge,</hi> to which <hi>Meeting</hi> J. A. belonged as a Member, being but four Miles diſtance from his Dwel<g ref="char:EOLhyphen"/>ling; and to which Meeting the Buſineſs of his not taking his Wife, was brought, as appears by the recited Record, <hi>&amp;c.</hi> Where, by the <hi>Major Vote</hi> he was condemned, <hi>&amp;c.</hi> I ſay, a Copy of the ſaid <hi>Orders</hi> are as follow<g ref="char:EOLhyphen"/>eth, <hi>Viz.</hi> 
+                  <q>It is ordered and agreed upon at this Quarterly Meeting, that no Friends for time to come may permit or ſuffer <hi>Marriages,</hi> without the con<g ref="char:EOLhyphen"/>ſent of Friends at two <hi>Mens</hi> and <hi>Womens Meetings;</hi> and the Man and Wo<g ref="char:EOLhyphen"/>man to come both to the ſaid <hi>Meeting,</hi> to receive the Anſwer of Friends; that ſo no diſorderly or indirect Proceedings may be carryed on any more, contrary to the Unity of Friends.</q> Dated the 1ſt. of the 10th. Mo. 1675, <hi>&amp;c.</hi> Now <hi>J. A.</hi> either took his Wife according to theſe <hi>Orders,</hi> or he did not; If he did, Why ſtands he Recorded out of the <hi>
+                     <g ref="char:V">Ʋ</g>nity,</hi> for not taking his Wife according to the <hi>Orders</hi> of Friends? as are the very words of the re<g ref="char:EOLhyphen"/>cited Record of his Condemnation; unleſs theſe <hi>Orders</hi> be not the <hi>Orders</hi> of Friends; which I preſume they will not confeſs too: And if he did not, then 'tis plain, that his Adverſaries are aſhamed to own their own <hi>Orders</hi> to be the <hi>Orders</hi> of Friends, and aſhamed to vindicate their own Actions, but begin to evade them and ſhuffle about them: Since <hi>G. W.</hi> in his <hi>Judgment-Fixed, pag.</hi> 254. 361. ſeems to deny that he was recorded out of the <hi>
+                     <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>ty</hi> for not coming and preſenting his Publication to the <hi>Men's</hi> and <hi>Women's diſtinct Meetings,</hi> Viz. According to the <hi>Orders</hi> above ſpecified, <hi>&amp;c.</hi> Which is plain and evident by the very words of the <hi>Orders,</hi> and the Record of his Condemnation, as at large recited. But leaſt <hi>G. W.</hi> ſhould ſtill inſinuate that <hi>J. A.</hi> diſobeyed ſome other <hi>Order</hi> of Friends beſides the recited <hi>Or<g ref="char:EOLhyphen"/>ders,</hi> and therefore ſtands Recorded out of <hi>
+                     <g ref="char:V">Ʋ</g>nity,</hi> &amp;c. Which is more than I know of; and which if he had, they ought to have ſignified what <hi>Order</hi> it is, &amp; tryed him at ſuch Meetings where ſuch <hi>Orders</hi> were in Being; and not to have brought his Buſineſs of taking his Wife contrary to the <hi>Orders</hi> of Friends, to <hi>Hadenham Quarterly Meeting,</hi> and there try him, and by Vote condemn him; and Record him in the ſame Book, as well as at the ſame <hi>Quarterly Meeting</hi> where the <hi>Orders</hi> were both Made and Recorded, as a perpetual Everlaſting Rule and Standard for all to walk by, that in<g ref="char:EOLhyphen"/>tend to <hi>Marry</hi> and continue in <hi>
+                     <g ref="char:V">Ʋ</g>nity,</hi> &amp;c. and yet pretend they mean not thoſe <hi>Orders.</hi> And thereupon, for further Satisfaction, I ſhall recite ſeve<g ref="char:EOLhyphen"/>ral <hi>Orders</hi> for <hi>Marriage,</hi> and from them obſerve to the <hi>Reader,</hi> that <hi>J. A.</hi> took his Wife according to all former <hi>Orders,</hi> ſave only the <hi>Orders</hi> where <hi>Women's Meetings</hi> are ſet up, and lately Erected. That is to ſay.</p>
+            </div>
+            <div type="part">
+               <head>THE FIRST ORDER FOR MARRIAGE BY <hi>G. F.</hi> The 7th. of the 11th. Mo. 1659. <hi>G. F.</hi> wrote an <hi>Order</hi> for <hi>Marriage,</hi> Printed for <hi>T. Symmons.</hi> An <hi>Abſtract</hi> whereof is as followeth, <hi>Viz.</hi>
+               </head>
+               <p>
+                  <q>ANd if any Friends go together in the power of the Lord, or find a Neceſſity thereunto to joyn in <hi>Marriage,</hi> that after the Thing hath been made known between themſelves, before any thing be concluded, it
+<pb n="3" facs="tcp:104037:2"/> be declared to Friends who are Able. — If in convenient time after the Thing be declared, nothing appear againſt it, by the Parties who are firſt acquainted with ſuch a <hi>Marriage</hi> — They may, as they are moved, de<g ref="char:EOLhyphen"/>clare it in the end of the next <hi>General-Meeting</hi> to which the Parties do belong — or as they are moved, they may declare it in the mid time of the <hi>Market,</hi> on the <hi>Market Day,</hi> in the next <hi>Market-Town</hi> — or they may not, as their Freedom is; — and as they are moved, they may de<g ref="char:EOLhyphen"/>clare it to the <hi>Magiſtrate</hi> if they will, or they may not. — Then after a convenient time, an <hi>Aſſembly,</hi> about twelve Friends met together, they may ſpeak their Teſtimony (that all may take notice who are the Perſons) as they are moved. — And then a <hi>Certificate</hi> by Friends preſent may be given, of the <hi>Day, Month,</hi> and <hi>Year,</hi> that it may be Recorded — And that nothing be Recorded for <hi>Money</hi>
+                     <note n="*" place="margin">What then will become of ſuch as take <hi>12</hi> d. for writing a <hi>Certificate,</hi> which a <hi>Lawyer</hi> will do as much for <hi>4</hi> d. and <hi>30</hi> l. for writing the Manu<g ref="char:EOLhyphen"/>ſcript which <hi>G. Fox</hi> and <hi>E. Hooks</hi> wrote, to teach Children in the Way of God, which a Prieſt will write ſo much for <hi>20</hi> s. What will become of <hi>S. Ca<g ref="char:EOLhyphen"/>ter</hi> for taking <hi>10</hi> l. for <hi>40</hi> s. Damage ſuſtained by a Fine, for preaching at <hi>Phakenham</hi> in <hi>Norfolk?</hi> And of <hi>S. Cater</hi> &amp; his Fellow-Preachers for tak<g ref="char:EOLhyphen"/>ing ſeveral Sums of Money for preach<g ref="char:EOLhyphen"/>ing; I ſay what will become of theſe diſobedient Sons for Breach of this In<g ref="char:EOLhyphen"/>fallible Order made by <hi>G. Fox,</hi> unleſs <hi>G. F.</hi> abſolve them? Anſwer this, you Money-Mongers.</note> in theſe Things, but freely a free People, and in Love ſerve one another.</q>
+               </p>
+            </div>
+            <div type="part">
+               <head>OBSERVATIONS THEREUPON.</head>
+               <p>Although <hi>J. A.</hi> took not this Pre<g ref="char:EOLhyphen"/>ſcription for his <hi>Rule,</hi> yet thus far he did, according to the Advice given, <hi>Viz.</hi> He firſt made known his Intenti<g ref="char:EOLhyphen"/>on of <hi>Marriage</hi> to ſeveral able <hi>Friends</hi> of his firſt Wive's Relations, and others; &amp; then to the <hi>Monthly</hi> or <hi>Ge<g ref="char:EOLhyphen"/>neral Meeting;</hi> then about 3 <hi>Months</hi> after, being a convenient time, there was an <hi>Aſſembly</hi> of Friends, many more than 12; met together; who were <hi>Witneſſes</hi> to his <hi>Marriage,</hi> and gave him a <hi>Certificate,</hi> witneſſing the <hi>Day, Month,</hi> and <hi>Year,</hi> which is Recorded in <hi>Cambridgeſhire Monthly Book</hi> with<g ref="char:EOLhyphen"/>out Money. So that <hi>J. A.</hi> cannot be Recorded out of <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> for not <hi>taking</hi> his Wife according to this <hi>Order.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>THE SECOND ORDER OF MARRIAGE BY <hi>G. F.</hi>
+               </head>
+               <p>About the Year 1662, <hi>G. F.</hi> wrote a <hi>Second Order</hi> for <hi>Marriage,</hi> which came to me when I was Priſoner at <hi>Wisbech;</hi> which amongſt thirteen Parti<g ref="char:EOLhyphen"/>culars more, at the requeſt of ſome Friends, I <hi>Recorded</hi> in our <hi>Monthly Re<g ref="char:EOLhyphen"/>gister Book.</hi> A ſhort <hi>Abſtract</hi> whereof followeth, <hi>Viz.</hi> — <q>And when they — take one another in <hi>Marriage,</hi> let not leſs than a <hi>Dozen</hi> of Friends and Relations be preſent; according to your former <hi>Order,</hi> having firſt acquainted the <hi>Men's Meeting:</hi> — and that it may be Recorded in a <hi>Book.</hi>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <head>OBSERVATIONS THERE<g ref="char:V">Ʋ</g>PON.</head>
+               <p>Although <hi>J. A.</hi> took not this <hi>Second Preſcription</hi> for his <hi>Rule;</hi> yet he publiſhed the <hi>Intentions</hi> of his <hi>Marriage</hi> to the <hi>Men's Meeting;</hi> and this
+<pb n="4" facs="tcp:104037:3"/> is <hi>G. F's Order</hi> Infallibly; and it doth not adviſe to go <hi>Twiſe</hi> to the Men's <hi>Meeting,</hi> &amp;c. And not leſs than a <hi>Dozen</hi> Friends and Relations (though many more) were preſent. And his <hi>Certificate</hi> is Recorded without Mo<g ref="char:EOLhyphen"/>ney, as before obſerved: So that he cannot be Recorded out of <hi>Unity</hi> for taking his <hi>Wife</hi> contrary to this <hi>Order.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>THE THIRD ORDER FOR <hi>MARRIAGE.</hi>
+               </head>
+               <p>About the Year 1667, there came another Paper of <hi>Orders</hi> to my hand, with this <hi>Superſcription,</hi> Viz. <hi>The Elders and Brethren ſendeth unto the Brethren in the North, <hi>&amp;c.</hi>
+                  </hi> Touching <hi>twenty Particulars;</hi> the <hi>ſeventh</hi> whereof was about <hi>Marriage,</hi> which I have quoted at large in my Book <hi>De Chriſtianâ Libertate,</hi> pag. 141. A ſhort <hi>Abſtract</hi> thereof followeth, <hi>Viz.</hi> 
+                  <q>That as any are moved of the Lord, and in his <hi>Light</hi> called to take a <hi>Brother</hi> or <hi>Siſter</hi> in Marriage, — let it be made known to the <hi>Children of Light;</hi> —and being by the <hi>Light</hi> made manifeſt to be of God; let them be joyned together in the Lord, and in his Fear, in the Preſence of many <hi>Wit<g ref="char:EOLhyphen"/>neſſes,</hi> according to the Example of the Holy Men of God, Recorded in the Scripture of <hi>Truth;</hi> which was wrote for our Example and Learning — That there may be a Record in Writing, witneſſing the <hi>Day, Place,</hi> and <hi>Year;</hi> — under which the <hi>Witneſſes</hi> preſent may ſubſcribe their Names, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <head>OBSERVATIONS THERE<g ref="char:V">Ʋ</g>PON.</head>
+               <p>Although <hi>J. A.</hi> took none of the foregoing Preſcriptions for his <hi>Rule;</hi> which by the Concluſion of this <hi>Epiſtle,</hi> in theſe words, <hi>Dearly beloved, theſe Things we do not lay upon you as a Rule or Form to walk by, <hi>&amp;c.</hi>
+                  </hi> is not de<g ref="char:EOLhyphen"/>ſired. Yet he fulfilled the ſame in making known his <hi>Intention</hi> of Marriage to the <hi>Children of Light,</hi> unleſs their <hi>Monthly</hi> Men's Meeting be not <hi>Children of the Light:</hi> and about 3 <hi>Months</hi> after was joyned together in the Fear of the Lord, in the Preſence of many <hi>Witneſſes;</hi> and a <hi>Record</hi> thereof was made of the <hi>Place, Day, Month,</hi> and <hi>Year;</hi> and many ſubſcribed the ſame, as I ſhall yet more plainly make appear. So that <hi>J. A.</hi> could not be Re<g ref="char:EOLhyphen"/>corded out of <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> for not taking his Wife according to this <hi>Order.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>THE FOURTH ORDER FOR <hi>MARRIAGE.</hi>
+               </head>
+               <p>At a <hi>Quarterly Meeting</hi> in <hi>Hadenham</hi> in the Iſle of <hi>Ely</hi> and County of <hi>Cambridge,</hi> within four Miles of <hi>J. A's</hi> Dwel<g ref="char:EOLhyphen"/>ling;<note place="margin">Yet <hi>G. W.</hi> hath the Face to tell the World there were no <hi>Women's Meetings</hi> in thoſe Parts. Oh Impu<g ref="char:EOLhyphen"/>dence it ſelf!</note> and to which <hi>Meeting J. A.</hi> belonged as a Member; there was yet another <hi>Order</hi> made, which I ſhall tranſcribe at large: and though <hi>Ed. Pechy, St. Blew,</hi> and divers other <hi>Cambridg<g ref="char:EOLhyphen"/>ſhire</hi> Friends as well as the Iſle of <hi>Ely</hi> Friends, had publiſhed their <hi>Intentions</hi> of <hi>Marriage</hi> there, <hi>Viz.</hi> before the <hi>Mens</hi> and <hi>Women's</hi> diſtinct <hi>Meetings;</hi> yet <hi>J. A.</hi> as a Diſ<g ref="char:EOLhyphen"/>obedient Son to the Church of <hi>G. F.</hi> and his Party, took no notice of this Unſcriptural Law and vain Tradition following, <hi>Viz.</hi>
+               </p>
+               <p>
+                  <q>It is ordered and agreed upon at this <hi>Quarterly Meeting,</hi> that no Friends for TIME to COME may PERMIT or SUFFER MARRIAGES
+<pb n="5" facs="tcp:104037:3"/> without the conſent of <hi>two Men's</hi> and <hi>Women's Meetings;</hi> and the Man and Woman to come <hi>both</hi> to the ſaid <hi>Meeting,</hi> to receive the Anſwer of Friends; that ſo no diſorderly or indirect Proceedings may be carryed on any more, contrary to the <hi>
+                        <g ref="char:V">Ʋ</g>NITY of Friends,</hi> Anno 1675.</q>
+               </p>
+            </div>
+            <div type="part">
+               <head>OBSERVATIONS THERE<g ref="char:V">Ʋ</g>PON.</head>
+               <p>Indeed this <hi>Order</hi> J. A. did thus far take his Wife contrary to, <hi>Viz.</hi> 1ſt. He did not go to the Men's and Women's diſtinct <hi>Meetings.</hi> 2dly. He did not carry his Wife twice to the Men's and Women's diſtinct <hi>Meetings.</hi> 3dly. He did neither ask nor receive Lycenſe from them. And therefore if by their words (both of this fourth <hi>Order,</hi> and of the Record of his Con<g ref="char:EOLhyphen"/>demnation, as in Title Page recited) their meaning may be <hi>known,</hi> they have Recorded him out of <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> for Non-Conformity to the <hi>Order</hi> of Men's and Women's <hi>Meetings.</hi> And that it may yet more plainly appear, that <hi>J. A.</hi> was therefore Recorded out of the <hi>
+                     <g ref="char:V">Ʋ</g>nity,</hi> if plainer can be; I ſhall recite part of that Univerſal <hi>Decree</hi> made by a <hi>General Counſel</hi> held (not at <hi>Trent,</hi> but) at <hi>London;</hi> in <hi>Devonſhire Houſe,</hi> the 27th. of the 3d. Month, 1675; and <hi>Signed</hi> by <hi>G. Whitehead, St. Criſp,</hi> and other <hi>Preachers</hi> of <hi>G. F's</hi> Party; by Vertue of which Decree, not only <hi>J. A.</hi> but as many in all <hi>Countrys</hi> and <hi>Nations</hi> that profeſs <hi>Chriſtianity,</hi> as ſhall either <hi>directly</hi> or <hi>indirectly</hi> diſcountenance theſe <hi>Women's Meetings,</hi> are Recorded to all <hi>Intents</hi> and <hi>Purpoſes</hi> out of the <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> of the <hi>Church of Chriſt,</hi> and <hi>Order of the Goſpel;</hi> See <hi>De Chriſtianâ Libertate,</hi> pag. 42, 43, 44. more at large, <hi>Viz.</hi>
+               </p>
+               <p>
+                  <hi>That</hi> Marriages <hi>be twice propounded — to the</hi> Men's <hi>and</hi> Women's Meet<g ref="char:EOLhyphen"/>ings.—<hi>It is our Judgment and Testimony in the Word of God's</hi> Wiſdom, <hi>that the Riſe and Practice, Setting up and Establiſhing of</hi> Men's <hi>and</hi> Women's Meetings — <hi>is according to the Mind and Counſel of God; and done in the Ordering and Leading of his Eternal Spirit. — And if any profeſſing Truth ſhall either <hi>directly</hi> or <hi>indirectly diſcountenance</hi> or <hi>weaken</hi> the hands of either</hi> Men <hi>or</hi> Women, <hi>we cannot but look upon them, as therein not in <hi>Vnity</hi> with the <hi>Church</hi>
+                  </hi> of Chriſt, <hi>and <hi>Order</hi>
+                  </hi> of the <hi>Goſpel, <hi>&amp;c.</hi>
+                  </hi>
+               </p>
+               <p>I hope by this time <hi>G.W</hi>'s <hi>Alligations</hi> are anſwered, and his <hi>Inſinuations<g ref="char:punc">▪</g>
+                  </hi> that <hi>J. A.</hi> is not Recorded out of <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> for not Conforming to the <hi>fourth Order</hi> for Marriage; where all are required to publiſh their Intentions to the <hi>Women's Meeting</hi> as well as the <hi>Men's,</hi> are clearly refuted. But if any think not, the next time they write, let them be more plain, and tell what <hi>Order</hi> for Marriage there is in being amongſt the People call'd <hi>Quakers,</hi> that <hi>J. A.</hi> did not conform to, other than the ſaid <hi>fourth Order.</hi> And they may meet with a ſuitable Reply, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>THE EXAMINATION OF <hi>JOHN TYSOE.</hi>
+               </head>
+               <p>AND whereas <hi>John Tyſoe</hi> and his <hi>Approvers,</hi> in anſwer to <hi>J. A</hi>'s ſeve<g ref="char:EOLhyphen"/>ral Things, <hi>&amp;c.</hi> p. 12. ſays, <q>
+                     <hi>John,</hi> when thou went'ſt to the Men's <hi>Meeting,</hi> and told them thou didſt intend to take thy <hi>Houskeeper</hi> to Wife, — Did not Friends ask thee where ſhe was, and deſired ſhe might come next <hi>Meeting</hi> with thee, to the intent they might hear what ſhe ſaid
+<pb n="6" facs="tcp:104037:4" rendition="simple:additions"/> to it. — and thou coming no more, <hi>NOR SHE AT ALL BEFORE FRIENDS.</hi> How <hi>John,</hi> could Friends be <hi>Witneſſes,</hi> without hearing you both face to face? And did <hi>YO<g ref="char:V">Ʋ</g> NOT GO TOGETHER?</hi> — Nay, <hi>John,</hi> thou muſt not think to impoſe ſuch <hi>WICKED</hi> and diſorder<g ref="char:EOLhyphen"/>ly Things upon God's People, nor <hi>W. R.</hi> nor <hi>F. B.</hi> who have ſo often publiſhed thy <hi>Name</hi> in their Books; — Which Practice was below Civil Men, and is Judged with the <hi>Spirit of Truth,</hi> &amp;c.</q>
+               </p>
+               <p>By all which 'tis evident, that <hi>J. T.</hi> and his Approvers would have the World believe, That after <hi>J. A.</hi> had acquainted the Monthly <hi>Meeting</hi> with his <hi>Intention</hi> of <hi>Marriage,</hi> he, without any other Formal Proceedings in order to take her to Wife, went together and enjoyed each other as Man and Wife, by theſe words, <hi>And thou</hi> (meaning <hi>J. A.) coming no more, <hi>nor ſhe at all before Friends,</hi> how could Friends be Witneſſes without hearing you face to face? AND DID YO<g ref="char:V">Ʋ</g> NOT GO TOGETHER.</hi>
+               </p>
+               <p>Oh base and unworthy! to make the World believe that which they know themſelves to be falſe.<note n="☞" place="margin">Which groſs Lye and Defamation is laid to the Charge alſo of the Second-day's <hi>Meeting</hi> in London, who approved his Book: whereby their Infallible Di<g ref="char:EOLhyphen"/>ſcerning and unerring <hi>Judgment</hi> they pretend to in their Book, <hi>Judas and the Jews,</hi> pag. <hi>58.</hi> ſaying, <q>We need none to give us diſcerning or Judgment, Chriſt hath furniſh't us already, and doth on all Occaſions, <hi>&amp;c.</hi> is a meer Cheat, and the greatest Deceipt; yea, without a Parallel, except by their Elder Siſter <hi>Romo.</hi>
+                     </q>
+                  </note> And yet to confirm the World in their Belief of this horrid and notorious Lye, <hi>Viz. <hi>That ſhe never came before Friends at all; but went together,</hi>
+                  </hi> like <hi>J. H.</hi> and one in <hi>Kent,</hi> and another in the <hi>North,</hi> without any Orderly Proceeding in Marriage. This Pro<g ref="char:EOLhyphen"/>phane <hi>J. T.</hi> thus paraphraſeth, ſaying, "Nay <hi>John,</hi> thou muſt not think to Impoſe ſuch wick<g ref="char:EOLhyphen"/>ed<note n="☞" place="margin">
+                     <hi>As if</hi> J. A. <hi>had been like</hi> D. Kay, R. Mobbs, Ez. W. T. Rud. T.M. S.N. C.A. W.W. <hi>and o<g ref="char:EOLhyphen"/>thers of</hi> J. Tyſoe's <hi>Brethren, that I can name,</hi> &amp;c.</note> and diſor<g ref="char:EOLhyphen"/>derly Things upon God's People, <hi>&amp;c.</hi>
+               </p>
+               <p>And therefore to undeceive the World, and to make it appear that <hi>J. A.</hi> and <hi>Clemence Whiſton</hi> (which <hi>J. Tyſoe</hi> call'd his Maid, though ſhe was an ancient ſober Widdow) his then intended Wife came face to face, whereby Friends were Capable to be <hi>Witneſſes</hi> of their Marriage, I may in<g ref="char:EOLhyphen"/>cert a Copy of his <hi>Marriage Cetrtificate,</hi> which is Recorded in their Monthly Book without Money, according to all the Orders for Marriage that I know of, before the late Government of the <hi>Women</hi> was erected by <hi>G. F.</hi> &amp;c. <hi>VIZ.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <list>
+                        <head>OBSERVATIONS UPON THE SAID CERTIFICATE.</head>
+                        <item>1ſt. Theſe Subſcribers were no Friends, or J. T. lyes.</item>
+                        <item>2dly. She came not before theſe Friends, or J. T. lyes.</item>
+                        <item>3dly. This their way and manner of Marriage is a wicked and diſorderly Practice, or J. T. lyes.</item>
+                        <item>4thly. <hi>W.R. F.B.</hi> and <hi>T. C.</hi> Quoting this Marriage, be<g ref="char:EOLhyphen"/>came Civil Men, or J. T. lyes.</item>
+                        <item>5thly. J. A. and <hi>Cl. Whiſton,</hi> when they were Marryed, came not face to face; and conſequently were not publickly and mutually joyned together in Marrirge, or elſe J. T. lyes.</item>
+                     </list>
+                     <p>This is <hi>JOHN TYSOE,</hi> That's given to lye ſo.</p>
+                  </note>
+                  <hi>Theſe are to certifie all whom it may concern, that</hi> John Anſloe <hi>&amp;</hi> Cle<g ref="char:EOLhyphen"/>mence
+<pb n="7" facs="tcp:104037:4" rendition="simple:additions"/> Whiſton, <hi>both of</hi> Over <hi>in the County of <hi>Cambridge,</hi> were publick<g ref="char:EOLhyphen"/>ly and mutually joyned together in Marriage up<g ref="char:EOLhyphen"/>on the third day of the ſe<g ref="char:EOLhyphen"/>cond Month,</hi> 1678, <hi>in a Meeting of the Lord's People, at the Houſe of the ſaid</hi> JOHN ANSLOE, <hi>ſcituate in <hi>Over,</hi>
+                  </hi>
+                  <note n="☞" place="margin">Where <hi>T. Hardmeat,</hi> and <hi>Anne</hi> his Wife took each other in Marriage, my ſelf, J. <hi>Crook,</hi> &amp; many others being preſent.</note> 
+                  <hi>aforeſaid, in the preſence of us who ſubſcribe our Names, and many Others. <hi>Viz.</hi>
+                  </hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>John Ruſh,</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Gamble,</hi>
+                  </item>
+                  <item>
+                     <hi>Jer. Procter,</hi>
+                  </item>
+                  <item>
+                     <hi>John Norris,</hi>
+                  </item>
+                  <item>
+                     <hi>Jo. Cranwel,</hi>
+                  </item>
+                  <item>
+                     <hi>John Smith,</hi>
+                  </item>
+                  <item>
+                     <hi>James Parris,</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Parnel,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Rabey,</hi>
+                  </item>
+                  <item>
+                     <hi>John Peacock,</hi>
+                  </item>
+                  <item>
+                     <hi>Benjamin Thornly,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Love,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>Amy Peacock,</hi>
+                  </item>
+                  <item>
+                     <hi>Edith Smith,</hi>
+                  </item>
+                  <item>
+                     <hi>Dynah Cranwel,</hi>
+                  </item>
+                  <item>
+                     <hi>Tabathy Ainſloe.</hi>
+                  </item>
+               </list>
+               <p>Thus doth it evidently appear; 1ſt. That <hi>J. A.</hi> was marryed according to the ancient Practice of Friends, as appears by the 1ſt. 2d. and 3d. <hi>Order</hi> for <hi>MARRIAGE. Secondly,</hi> That they came face to face before Friends; whereby Friends were capable to give a <hi>Certificate</hi> thereof. But that he ſhould conform to every new Invented <hi>Order</hi> for <hi>Marriage,</hi> which fol<g ref="char:EOLhyphen"/>lowed ſo faſt one after another, the laſt of which was worſt of all; for this there is no Reaſon; but rather againſt it; ſince, who knows, but the fifth <hi>Order</hi> may introduce the <hi>Ring;</hi> for which there is as much to be ſaid, and from Scripture too, as for the <hi>Women's</hi> diſtinct Meetings. Neither yet are they content with their Sentence of <hi>Non-<g ref="char:V">Ʋ</g>nion,</hi> but ſix years after his Mar<g ref="char:EOLhyphen"/>riage they continue their Quarrel againſt him. And that they may a little reſemble the <hi>Papist's</hi> Proceedings with <hi>John Wickliff,</hi> they rake in his <hi>Wive's Aſhes</hi> three years after her Deceaſe, wickedly Suggeſting, that while ſhe liv'd ſhe reſembled <hi>I.H.</hi> &amp;c. &amp; other unclean Perſons, tho ſhe was well known to be a ſober honeſt Woman; and I am perſwaded, lived in the Fear of God, and dyed in his Favour. Thus are they found defaming both the <hi>Dead</hi> and the <hi>Living;</hi> a Work ungrateful to a Chriſtian Mind. As for <hi>J.A.</hi> 'tis well known, that he hath not followed the Steps of <hi>G. F.</hi> and his Fellow-Preach<g ref="char:EOLhyphen"/>ers in compaſſing Sea and Land to get a rich Wife; who though they preach up <hi>Self-Denyal</hi> as a Mark of true Chriſtianity, yet none more for <hi>Self-Inter<g ref="char:EOLhyphen"/>eſt;</hi> their Fruits make them manifeſt; <hi>G. Fox</hi> in particular, who was but a poor <hi>Shoomaker;</hi> and yet no leſs Fortune than Judge <hi>Fell's</hi> Widdow could match his aſpiring Mind.</p>
+               <p>Obj. But ſome are ready to object, <hi>That before the Controverſy happened be<g ref="char:EOLhyphen"/>twixt</hi>
+                  <pb n="8" facs="tcp:104037:5"/> S. Cater <hi>and me, that I was as much for Orders as others, and that they never perceived in me any diſſatisfaction with the Practices of Friends,</hi> &amp;c.</p>
+               <p>
+                  <hi>Anſw.</hi> As to the firſt part of this <hi>Objection,</hi> I do think I was as zealous for them as moſt; but when I came to ſee them impoſed upon Friends, I did bear Teſtimony againſt the force uſed; and I always was for <hi>Chriſtian Li<g ref="char:EOLhyphen"/>berty,</hi> ſo far as I underſtood it. I have read that <hi>M. Luther,</hi> who was born <hi>An<g ref="char:EOLhyphen"/>no</hi> 1583. was once zealous for the Romiſh Religion, being an <hi>Auguſtine Monk;</hi> yet when he ſaw their Deceit, and how they nurſed up <hi>Implicit Faith,</hi> and <hi>Blind Obedience,</hi> and ſaid as <hi>G. W.</hi> hath wrote; <hi>That they muſt believe as the Church believes;</hi> he then ſoon bore Teſtimony againſt their <hi>Superſtiti<g ref="char:EOLhyphen"/>on;</hi> and ſo did I, as may be ſeen by my Books extant; to which I refer the Reader for further ſatisfaction. And as to the <hi>SECOND</hi> Part of the <hi>Ob<g ref="char:EOLhyphen"/>jection;</hi> 'tis well known that long before the Difference betwixt <hi>S. C.</hi> and I happened, that I diſliked ſome things practiſed amongſt us; as in particular, our Friends forcing their <hi>Apprentices</hi> to ſtand bare headed before them; and in their Shops; which though it may be requiſiite a<g ref="char:EOLhyphen"/>mongſt other People who give and receive Honour and Reſpect; yet upon our Principles I looked upon it Inconſiſtent with our Profeſſion. And as a Teſtimony againſt that Practice; and to ſhew my early diſlike thereof, I wrote a Letter to our <hi>Yearly Meeting,</hi> and directed it to <hi>S. Cater,</hi> who can bear me witneſs to the Truth thereof: a ſhort <hi>Abſtract</hi> thereof is as fol<g ref="char:EOLhyphen"/>loweth, <hi>Viz.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>
+                           <hi>FRIEND,</hi> &amp;c.</salute>
+                        <dateline>
+                           <hi>Mildenhall,</hi>
+                           <date>
+                              <hi>the 17th. of the 3d. Mo. 1675.</hi>
+                           </date>
+                        </dateline>
+                     </opener>
+                     <p>THeſe are to open my mind a little to thee, touching Friends forcing their Apprentices to ſtand bare headed before them; and my Request is to lay it before Friends, <hi>Viz.</hi> the Yearly Meeting; Whether we ought to <hi>IMPOSE</hi> that on our Servants which many of us, when Apprentices could not bear; and having of late heard it pleaded for, and ſeen it practiſed, I did teſtifie againſt it. But the Party ſaid, that good Friends practiſed it. Then I ſaid, if ſo, why then may we not put off our Hats to the King, and plead that he is Maſter and chief Governour over the whole Family of England: I told him, that pleaded for that Cuſtome, that our Apprentices who ſucceed us, may in the next Age ſay; As for our Maſters, they reſpected not the Perſons of Princes, nor any Court of Judi<g ref="char:EOLhyphen"/>cature, but were zealous for their Religion, often profeſſing that God reſpected neither Time, Place, nor Perſon. But they themſelves came no ſooner into their Houſes or Shops where they were Chief Governours, but off we muſt put our hats, and before them ſtand bareheaded, they pleading it would give Offence to the World, <hi>&amp;c.</hi> So let us turn our backs upon them and their Religion too, ſince by their Practice they unſay their Sayings; building again what they once deſtroy<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi>
+                     </p>
+                     <closer>
+                        <signed>F. B.</signed>
+
+                        <dateline>
+                           <hi>Mildenhall,</hi>
+                           <date>
+                              <hi>the 22d. of the 4th. Month, 1684.</hi>
+                           </date>
+                        </dateline>
+                        <signed>F. B.</signed>
+                     </closer>
+                     <postscript>
+                        <p>
+                           <hi>This being nigh ten years ſince, was before ever I was Fined for</hi> S. Cater's <hi>Preaching. Which is enough in anſwer to the</hi> Objection.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <q>
+                  <pb n="9" facs="tcp:104037:5"/>
+                  <lg>
+                     <l>WHen fallen Man, his Nakedneſs appears,</l>
+                     <l>Fig-leaf Excuſes covers all his Fears;</l>
+                     <l>Which ſoon wears out, proves but a <hi>withr'd Weed<g ref="char:punc">▪</g>
+                        </hi>
+                     </l>
+                     <l>Such as he Sows, he Reaps in very Deed.</l>
+                     <l>The dark Conceits of his projecting Brain,</l>
+                     <l>Leads him into a Lab'rinth, long and vain:</l>
+                     <l>He works and toils, ſhews all his Skill and Power,</l>
+                     <l>In vain to build his ſtately <hi>BAEL</hi>-TOWER,</l>
+                     <l>His Directories in's high-flown Conceit;</l>
+                     <l>None muſt oppoſe, but all muſt bow and wait,</l>
+                     <l>Aske leave to Marry, Conform, or judged wrong;</l>
+                     <l>He <hi>Saints himſelf,</hi> to make his Sentence ſtrong.</l>
+                     <l>Out of the Earth this <hi>Beaſt</hi> did firſt ariſe,</l>
+                     <l>Horn'd like a Lamb; with th'Dragons Voice he crys<g ref="char:punc">▪</g>
+                     </l>
+                     <l>
+                        <hi>Receive my Mark,</hi> conform you muſt to me,</l>
+                     <l>My Power is great, my Wonders you may ſee.</l>
+                     <l>The <hi>number of this Beaſt</hi> exalts his Praiſe,</l>
+                     <l>High as their Art in Sophiſtry can raiſe.</l>
+                     <l>It's true enough, ſuch Rabbiniſts you'l find</l>
+                     <l>Delights in feeding their ambitious Mind:</l>
+                     <l>Makes clean the <hi>out-ſide</hi> of the Cup and Platter,</l>
+                     <l>With theſe Conceit themſelves, and others flatter</l>
+                     <l>The Arm of GOD, that leads his People right,</l>
+                     <l>Stops the Deſigns of fallen Man, that ſmite</l>
+                     <l>At that which firſt convinced Man of Sin,</l>
+                     <l>And brought him out of <hi>Forms,</hi> to <hi>Light</hi> within,</l>
+                     <l>To be his Guide, that he may ceaſe from Man,</l>
+                     <l>Who thus preſumes to Captive whom he can.</l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>New Covenant</hi> that God to Men imparts,</l>
+                     <l>Admits no Rule, but written in their Hearts:</l>
+                     <l>No Teacher but Himſelf; no Judge but he</l>
+                     <l>That judgeth all unto Eternity.</l>
+                     <l>To Him alone be Praiſe and Glory given,</l>
+                     <l>Whoſe <hi>inward Teaching</hi> leads us into Heaven.</l>
+                     <l>
+                        <hi>A. D.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="10" facs="tcp:104037:6"/>
+                     <l>TAKE heed, beware of Novelty,</l>
+                     <l>And of Female Authority,</l>
+                     <l>That they into the Church ben't brought,</l>
+                     <l>And thereby ſuch Diviſions wrought,</l>
+                     <l>Through Craft of the old Enemy,</l>
+                     <l>Who is profound in Subtilty;</l>
+                     <l>As may cauſe bitterneſs to ſpring,</l>
+                     <l>Which is a very hurtful Thing,</l>
+                     <l>And more thereby's defil'd within</l>
+                     <l>Than Women can waſh clean again.</l>
+                     <l>But rather take the Good Old Way</l>
+                     <l>As God commanded: <hi>Paul</hi> doth ſay,</l>
+                     <l>
+                        <hi>That Women in Subjection be,</hi>
+                     </l>
+                     <l>
+                        <hi>And not uſurp Authority,</hi>
+                     </l>
+                     <l>
+                        <hi>Nor in the Church permitted ſpeak,</hi>
+                     </l>
+                     <l>
+                        <hi>Whereby they ſhould good Order break,</hi>
+                     </l>
+                     <l>
+                        <hi>Except to Pray or Propheſy,</hi>
+                     </l>
+                     <l>
+                        <hi>By Power givem from on high.</hi>
+                     </l>
+                     <l>Otherwiſe they'l confuſion make,</l>
+                     <l>And cauſe the Hearts of Friends to ake:</l>
+                     <l>But rather all with one Accord,</l>
+                     <l>Let <hi>Male</hi> and <hi>Female</hi> ſerve the Lord,</l>
+                     <l>That as Partakers of one Grace,</l>
+                     <l>They meet together in one Place,</l>
+                     <l>And not diſtinct, as <hi>George</hi> doth ſay,</l>
+                     <l>
+                        <hi>As the Tenth Hour of the Day,</hi>
+                     </l>
+                     <l>Nor yet divided one from t'other,</l>
+                     <l>Leſt that Diviſion breeds another:</l>
+                     <l>But as the Children of one Father,</l>
+                     <l>
+                        <hi>Brethren</hi> and <hi>Siſters</hi> both may gather</l>
+                     <l>Together in one Place to ſee</l>
+                     <l>What may to others needful be,</l>
+                     <l>And helping their Neceſſity,</l>
+                     <l>May ſerve each other in Unity;</l>
+                     <l>And Men's Invented Novelties</l>
+                     <l>With <hi>Womaniſh Formalities:</hi>
+                     </l>
+                     <l>What e're defiles may out be ſwe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t,</l>
+                     <l>And all things ſweet and clean be kept<g ref="char:punc">▪</g>
+                     </l>
+                     <l>Who firſt convinc't us by his Light,</l>
+                     <l>To lead us on may have his Right,</l>
+                     <l>And following him as Children Dear,</l>
+                     <l>May walk in Love whil'ſt we are here,</l>
+                     <l>And all unto him be Subjected,</l>
+                     <l>That all may in him be Perfected;</l>
+                     <pb n="11" facs="tcp:104037:6"/>
+                     <l>That God o're all may Ruler be,</l>
+                     <l>And glorify'd Eternally.</l>
+                     <l>But what art thou that art ſo bold,</l>
+                     <l>That <hi>Women's Meetings</hi> thus control'd,</l>
+                     <l>And thus doſt ſeem to lay a <hi>Block</hi>
+                     </l>
+                     <l>Againſt the raiſing of a <hi>Stock:</hi>
+                     </l>
+                     <l>Whereas <hi>George</hi> hath Infallibly</l>
+                     <l>Erected them to ſit on High;</l>
+                     <l>And that againſt their <hi>Government</hi>
+                     </l>
+                     <l>None ſhould ſhew Diſcouragement,</l>
+                     <l>Neither <hi>Direct</hi> nor <hi>Indirect,</hi>
+                     </l>
+                     <l>Leſt out of <hi>
+                           <g ref="char:V">Ʋ</g>nity</hi> they be kept.</l>
+                     <l>I tell thee I am a Labouring Man,</l>
+                     <l>And have been taught to <hi>Threſh</hi> and <hi>Fan,</hi>
+                     </l>
+                     <l>And what's the <hi>Chaff</hi> unto the <hi>Wheat?</hi>
+                     </l>
+                     <l>Though it may ſerve ſome Beaſt to eat;</l>
+                     <l>And to the <hi>Wheat</hi> may grow ſo near,</l>
+                     <l>That both came forth of th' ſelf ſame Ear,</l>
+                     <l>And ſent forth wrapt in Paper <hi>White,</hi>
+                     </l>
+                     <l>Wiſe Men will look <hi>ON'T</hi> in the <hi>Light,</hi>
+                     </l>
+                     <l>And ſuch whoſe Eyes are in their Head</l>
+                     <l>Can ſee it is not fit for <hi>Bread:</hi>
+                     </l>
+                     <l>Therefore on it refuſe to feed,</l>
+                     <l>Leſt it ſhould ill Humours breed,</l>
+                     <l>And ſuch diſtempers as <hi>Blind-Zeal,</hi>
+                     </l>
+                     <l>Which noyſom are to <hi>Common-weal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </l>
+                     <l>For when Men's Minds with it are heat,</l>
+                     <l>Their Fellows they are apt to beat,</l>
+                     <l>According to their Power and Might,</l>
+                     <l>They with their Tongues begin to ſmite,</l>
+                     <l>And he that is not of their Mind,</l>
+                     <l>
+                        <hi>From Truth</hi> (ſay they) <hi>he is declin'd,</hi>
+                     </l>
+                     <l>
+                        <hi>And</hi> Women's Meetings <hi>he doth ſlight,</hi>
+                     </l>
+                     <l>
+                        <hi>How then can his Spirit be right?</hi>
+                     </l>
+                     <l>And then ſaith one, <hi>Let's Mouth be ſtopt,</hi>
+                     </l>
+                     <l>And others cry, <hi>He muſt be knockt;</hi>
+                     </l>
+                     <l>Another, <hi>He doth blaſting threaten;</hi>
+                     </l>
+                     <l>And thus are Fellow Servants beaten,</l>
+                     <l>From <hi>Croſs-bow</hi> of their crooked <hi>Thoughts</hi>
+                     </l>
+                     <l>Which <hi>Blind-Zeal</hi> bent, they ſhoot their <hi>bolts.</hi>
+                     </l>
+                     <l>'Tis like I ſhall be paid with blows</l>
+                     <l>For ſmiting the <hi>Image</hi> on the <hi>Toes,</hi>
+                     </l>
+                     <l>That <hi>Image</hi> of <hi>Authority,</hi>
+                     </l>
+                     <l>Which <hi>Women's Meetings</hi> ſignifie;</l>
+                     <pb n="12" facs="tcp:104037:7"/>
+                     <l>Although but two or three be there,</l>
+                     <l>As more ſeldom do appear,</l>
+                     <l>When Weather's cold, and Winds do blow,</l>
+                     <l>I ſeldom ſee a bigger ſhnow:</l>
+                     <l>But I don't mean with them to fight,</l>
+                     <l>Therefore to keep me from their ſight:</l>
+                     <l>I'll to my Refuge quickly fly,</l>
+                     <l>Even God that Judgeth Righteouſly,</l>
+                     <l>And with him alſo will abide,</l>
+                     <l>Till he doth Remedy Provide,</l>
+                     <l>That <hi>Truth</hi> o're all may ſo prevail,</l>
+                     <l>As Love to conquer may not fail:</l>
+                     <l>That as God's One, alſo his Name,</l>
+                     <l>We all may be one in the ſame,</l>
+                     <l>And he may Reign whoſe Right it is,</l>
+                     <l>That nothing may be done amiſs,</l>
+                     <l>And then his Saints with Joy ſhall ſing,</l>
+                     <l>And ſound forth Praiſes to their King,</l>
+                     <l>Which was his due all times before,</l>
+                     <l>To him be it given for evermore.</l>
+                     <l>But now before I go my way,</l>
+                     <l>Another word I have to ſay:</l>
+                     <l>To ſuch as would know my Intent</l>
+                     <l>Why this I writ, 'tis to prevent</l>
+                     <l>The further growth of Diſcontent,</l>
+                     <l>Rais'd with the <hi>Female Government.</hi>
+                     </l>
+                     <l>Although a <hi>Charter</hi> firm they have,</l>
+                     <l>And <hi>Grant</hi> and <hi>Confirmation</hi> brave,</l>
+                     <l>Which Strengthen and Corroborate</l>
+                     <l>Their Juriſdiction obtain'd of late:</l>
+                     <l>Yet if the <hi>Tree</hi> known now may be</l>
+                     <l>By the Fruit, mine Eye doth ſee</l>
+                     <l>
+                        <hi>Charter</hi> and <hi>Confirmation</hi> both</l>
+                     <l>Are <hi>Innovations</hi> nothing worth.</l>
+                     <l>Wherefore I ſay, my Council take,</l>
+                     <l>And to your ſelves no <hi>Image</hi> make,</l>
+                     <l>Nor to a Likeneſs now ſubmit</l>
+                     <l>That no Foundation hath in it.</l>
+                     <l>Now to God's Grace I all commend,</l>
+                     <l>For teaching thereon to depend,</l>
+                     <l>Which from all Strife can us deſend,</l>
+                     <l>And thus I here ſhall make an end;</l>
+                     <l>Who am a Lover of <hi>Truth</hi> and <hi>Peace,</hi>
+                     </l>
+                     <l>To all therein wiſhing Increaſe.</l>
+                  </lg>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104037:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
